@@ -46,9 +46,12 @@ We will perform EDA to gain insights into the data and identify any potential is
 
 **Are there any trends in call volume and agent performance over time?**
 
+
+
 # Call Center Performance Dashboard
 
-<img width="604" alt="image" src="https://github.com/user-attachments/assets/b5f110d6-7286-4130-9d65-9c652021fa56">
+![image](https://github.com/user-attachments/assets/525fd3e7-d5d4-4439-baeb-d5bf2f3a4ac2)
+
 
 # Analyzing the Call Center Trends Dashboard
 
