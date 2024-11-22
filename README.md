@@ -77,7 +77,7 @@ Transformer-based models (e.g., BERT, RoBERTa)
 The trained model classifies new text into positive, negative, or neutral categories.
 
 
-# Word Cloud
+# Word Cloud for Overall Sentiment
 
 ![image](https://github.com/user-attachments/assets/ca2d2b9b-a9f7-4e04-ac66-cb0781b31b61)
 
@@ -120,7 +120,8 @@ instances of negative experiences related to product quality, shipping delays, a
 
 # Model Selection for Random Forest
 
-![image](https://github.com/user-attachments/assets/4585b7ca-e856-4520-9d15-8f7d57be2c13)
+![image](https://github.com/user-attachments/assets/5de31786-bd63-45e0-a97a-7babe16d7e13)
+
 
 **Interpreting the Random Forest Model Output**
 
