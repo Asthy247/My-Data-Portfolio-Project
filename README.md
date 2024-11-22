@@ -153,9 +153,10 @@ training set. A lower OOB error rate indicates a better-performing model.
 •	The high OOB error rate further supports this.
 
 
-# Random Forest
+# Random Forest (Resampling)
 
-![image](https://github.com/user-attachments/assets/f50b3ac5-510f-410a-941d-3788e513932e
+![image](https://github.com/user-attachments/assets/a3cab8ea-fdb8-46cf-858a-990183feefd1)
+
 
 
 **Model Summary**
