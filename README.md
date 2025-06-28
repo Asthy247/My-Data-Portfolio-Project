@@ -5,7 +5,7 @@ Welcome to my comprehensive data science and analytics portfolio! This repositor
 ### Machine Learning
 * **Automated Sentiment Analysis using R:** [View Original Repository](https://github.com/Asthy247/Automated-Sentiment-Analysis-using-R)
     * **Description:** This project analyzes customer reviews of Temu products to understand overall sentiment in RStudio...
-    * **Project Folder:** See the detailed project files and README in the [`sentiment-analysis-r/` directory.](sentiment-analysis-r/README.md)
+    
     * **Key Learnings:** Sentiment analysis, R programming, text mining, data visualization.
 
 
