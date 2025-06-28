@@ -25,13 +25,21 @@ Welcome to my comprehensive data science and analytics portfolio! This repositor
 
 ## About Me:
 
-[Add a short bio about yourself and your skills]
+I am an aspiring Data Scientist and Analyst with a strong passion for transforming raw data into actionable insights. My journey into data is driven by a curiosity to uncover patterns, solve complex problems, and tell compelling stories through data.
+I possess a solid foundation in statistical analysis, machine learning, data visualization, programming languages like Python/R, database management. My expertise includes:
+•	Data Analysis & Interpretation: Proficient in extracting, cleaning, and transforming large datasets to identify trends, anomalies, and relationships.
+•	Statistical Modeling: Experienced in applying various statistical techniques to derive meaningful conclusions and build predictive models.
+•	Machine Learning: Familiar with types of ML models, e.g., supervised/unsupervised learning, classification, regression and their application in real-world scenarios.
+•	Data Visualization & Reporting: Skilled in creating intuitive and impactful dashboards and visualizations using tools like Power BI, Tableau, to communicate complex findings clearly.
+•	Programming & Tools: Proficient in tools like R, Python, SQL, Excel.
+I am eager to contribute my analytical skills and collaborative spirit to a dynamic team, continually learning and growing within the data science field. My goal is to leverage data to empower decision-making and contribute to innovative solutions.
+
 
 ---
 
 ## Contact:
+**LinkedIn:** [Ayobonike Onigbanjo](https://www.linkedin.com/in/tfonigbanjo)
 
-[Your contact information, e.g., LinkedIn, personal website]
 # Automated-Sentiment-Analysis-using-R
 
 
