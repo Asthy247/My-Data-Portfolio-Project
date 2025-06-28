@@ -2,11 +2,12 @@
 # My-Data-Portfolio-Project
 Welcome to my comprehensive data science and analytics portfolio! This repository serves as a centralized collection of my projects, demonstrating my skills in data analysis, machine learning, visualization, and more.
 ## Projects Included:
+### Machine Learning
+* **Automated Sentiment Analysis using R:** [View Original Repository](https://github.com/Asthy247/Automated-Sentiment-Analysis-using-R)
+    * **Description:** This project analyzes customer reviews of Temu products to understand overall sentiment in RStudio...
+    * **Project Folder:** See the detailed project files and README in the [`sentiment-analysis-r/` directory.](sentiment-analysis-r/README.md)
+    * **Key Learnings:** Sentiment analysis, R programming, text mining, data visualization.
 
-### 1. Automated Sentiment Analysis using R
-* **Description:** This project analyzes customer reviews of Temu products to understand overall sentiment in RStudio. It leverages techniques like word cloud visualization and machine learning models to identify key themes and sentiment trends.
-* **Location:** See the detailed project files and README in the [`sentiment-analysis-r/` directory.](sentiment-analysis-r/README.md)
-* **Key Learnings:** Sentiment analysis, R programming, text mining, data visualization.
 
 ### 2. [Your Next Project Title Here]
 * **Description:** [Brief description of your next project]
