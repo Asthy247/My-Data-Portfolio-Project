@@ -12,9 +12,10 @@ Welcome to my comprehensive data science and analytics portfolio! This repositor
 ### Machine Learning
 * **Automated Sentiment Analysis using R:** [View Original Repository](https://github.com/Asthy247/Automated-Sentiment-Analysis-using-R)
     * **Description:** This project analyzes customer reviews of Temu products to understand overall sentiment in RStudio...
-    
-    * **Key Learnings:** Sentiment analysis, R programming, text mining, data visualization.
-
+        * **Key Learnings:** Sentiment analysis, R programming, text mining, data visualization.
+**Brain Tumor Detection using Image Processing with Python:** [View Original Repository](https://github.com/Asthy247/Brain-Tumor-Detection-using-Image-Processing-with-Python)
+    * **Description:** This project utilizes Python's powerful image processing capabilities to detect brain tumors in medical images. By employing techniques like edge detection, feature extraction, and machine learning, the project aims to accurately identify & localize potential tumor regions. The goal is to assist medical professionals in early diagnosis & treatment.
+    * **Key Learnings:** Image Processing (OpenCV, scikit-image), Machine Learning (classification, deep learning if applicable), Python, Medical Image Analysis.
 
 ### 2. [Your Next Project Title Here]
 * **Description:** [Brief description of your next project]
@@ -25,20 +26,26 @@ Welcome to my comprehensive data science and analytics portfolio! This repositor
 
 ## About Me:
 
-I am an aspiring Data Scientist and Analyst with a strong passion for transforming raw data into actionable insights. My journey into data is driven by a curiosity to uncover patterns, solve complex problems, and tell compelling stories through data.
-I possess a solid foundation in statistical analysis, machine learning, data visualization, programming languages like Python/R, database management. My expertise includes:
+I am an aspiring Data Scientist and Analyst with a strong passion for transforming raw data into actionable insights. 
+My journey into data is driven by a curiosity to uncover patterns, solve complex problems, and tell compelling stories through data.
+I possess a solid foundation in statistical analysis, machine learning, data visualization, programming languages like Python/R, database management. 
+My expertise includes:
 •	Data Analysis & Interpretation: Proficient in extracting, cleaning, and transforming large datasets to identify trends, anomalies, and relationships.
 •	Statistical Modeling: Experienced in applying various statistical techniques to derive meaningful conclusions and build predictive models.
+
 •	Machine Learning: Familiar with types of ML models, e.g., supervised/unsupervised learning, classification, regression and their application in real-world scenarios.
+
 •	Data Visualization & Reporting: Skilled in creating intuitive and impactful dashboards and visualizations using tools like Power BI, Tableau, to communicate complex findings clearly.
+
 •	Programming & Tools: Proficient in tools like R, Python, SQL, Excel.
-I am eager to contribute my analytical skills and collaborative spirit to a dynamic team, continually learning and growing within the data science field. My goal is to leverage data to empower decision-making and contribute to innovative solutions.
+I am eager to contribute my analytical skills and collaborative spirit to a dynamic team, continually learning and growing within the data science field. 
+My goal is to leverage data to empower decision-making and contribute to innovative solutions.
 
 
 ---
 
 ## Contact:
-**LinkedIn:** [Ayobonike Onigbanjo](https://www.linkedin.com/in/tfonigbanjo)
+**LinkedIn:** [LinkedIn](https://www.linkedin.com/in/tfonigbanjo)
 
 # Automated-Sentiment-Analysis-using-R
 
