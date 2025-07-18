@@ -15,7 +15,9 @@ Welcome to my comprehensive data science and analytics portfolio! This repositor
         * **Key Learnings:** Sentiment analysis, R programming, text mining, data visualization.
           
 **Brain Tumor Detection using Image Processing with Python:** [View Original Repository](https://github.com/Asthy247/Brain-Tumor-Detection-using-Image-Processing-with-Python)
-    * **Description:** This project utilizes Python's powerful image processing capabilities to detect brain tumors in medical images. By employing techniques like edge detection, feature extraction, and machine learning, the project aims to accurately identify & localize potential tumor regions. The goal is to assist medical professionals in early diagnosis & treatment.
+    * **Description:** This project utilizes Python's powerful image processing capabilities to detect brain tumors in medical images. By employing techniques like edge detection, feature extraction, and machine learning, the project aims to accurately identify & localize potential tumor regions. 
+    The goal is to assist medical professionals in early diagnosis & treatment.
+    
     * **Key Learnings:** Image Processing (OpenCV, scikit-image), Machine Learning (classification, deep learning if applicable), Python, Medical Image Analysis.
 
 ### 2. [Your Next Project Title Here]
@@ -30,6 +32,7 @@ Welcome to my comprehensive data science and analytics portfolio! This repositor
 I am an aspiring Data Scientist and Analyst with a strong passion for transforming raw data into actionable insights. 
 My journey into data is driven by a curiosity to uncover patterns, solve complex problems, and tell compelling stories through data.
 I possess a solid foundation in statistical analysis, machine learning, data visualization, programming languages like Python/R, database management. 
+
 My expertise includes:
 •	Data Analysis & Interpretation: Proficient in extracting, cleaning, and transforming large datasets to identify trends, anomalies, and relationships.
 •	Statistical Modeling: Experienced in applying various statistical techniques to derive meaningful conclusions and build predictive models.
